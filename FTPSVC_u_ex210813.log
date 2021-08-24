@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2021-08-13 00:49:58
+#Fields: date time c-ip cs-username s-computername s-ip s-port cs-method cs-uri-stem sc-status sc-win32-status sc-substatus sc-bytes cs-bytes x-session x-fullpath
+2021-08-13 00:49:58 192.241.214.201 - CT007-MANTLE 10.10.30.11 21 ControlChannelOpened - - 0 0 0 0 fe3682eb-1d69-45fa-acaf-278bfd2c58a1 -
+2021-08-13 00:49:58 192.241.214.201 - CT007-MANTLE 10.10.30.11 21 ControlChannelClosed - - 0 0 27 0 fe3682eb-1d69-45fa-acaf-278bfd2c58a1 -
+2021-08-13 03:27:37 71.6.232.4 - CT007-MANTLE 10.10.30.11 21 ControlChannelOpened - - 0 0 0 0 504a9abe-da32-47cf-8559-e45b8e2ae072 -
+2021-08-13 03:27:37 71.6.232.4 - CT007-MANTLE 10.10.30.11 21 ControlChannelClosed - - 0 0 27 0 504a9abe-da32-47cf-8559-e45b8e2ae072 -
